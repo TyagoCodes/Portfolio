@@ -1,11 +1,11 @@
 import React, {useRef} from 'react'
 
-import codingpov from "../../Public/assets/codingpov.png"
-import swift from "../../Public/assets/swift.png"
-import kotlin from "../../Public/assets/kotlin.png"
-import js from "../../Public/assets/js.png"
-import ts from "../../Public/assets/typescript.png"
-import node from "../../Public/assets/node.png"
+import codingpov from "../../public/assets/codingpov.png"
+import swift from "../../public/assets/swift.png"
+import kotlin from "../../public/assets/kotlin.png"
+import js from "../../public/assets/js.png"
+import ts from "../../public/assets/typescript.png"
+import node from "../../public/assets/node.png"
 
 import Card from "../components/Card.jsx";
 import {Globe} from "../components/globe.jsx";

@@ -1,6 +1,6 @@
 import React from 'react'
-import close from '../../Public/assets/closex.svg'
-import arrowUp from '../../Public/assets/arrow-up.svg'
+import close from '../../public/assets/closex.svg'
+import arrowUp from '../../public/assets/arrow-up.svg'
 import {motion} from "motion/react"
 
 const ProjectDetails = ({

@@ -1,5 +1,5 @@
-import copy from "../../Public/assets/copy.svg"
-import copyDone from "../../Public/assets/copy-done.svg"
+import copy from "../../public/assets/copy.svg"
+import copyDone from "../../public/assets/copy-done.svg"
 
 import {useState} from "react";
 import {motion} from "motion/react"

@@ -1,6 +1,6 @@
 import React from 'react';
-import skyBg from '../../Public/assets/sky.png';
-import planes from '../../Public/assets/planes.png';
+import skyBg from '../../public/assets/sky.png';
+import planes from '../../public/assets/planes.png';
 import { motion, useScroll, useTransform, useSpring } from 'framer-motion';
 
 const ParallaxBackground = () => {

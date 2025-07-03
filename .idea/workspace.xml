@@ -6,7 +6,58 @@
   <component name="ChangeListManager">
     <list default="true" id="ec4a9faf-58d2-4472-a044-f60bda6175aa" name="Changes" comment="v1.1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/arrow-right.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/arrow-right.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/arrow-up.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/arrow-up.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/close.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/close.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/closex.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/closex.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/codingpov.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/codingpov.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/copy-done.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/copy-done.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/copy.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/copy.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/js.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/kotlin.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/kotlin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/logos/androidstudio.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/androidstudio.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/logos/bash.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/bash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/logos/css.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/css.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/logos/docker.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/docker.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/logos/expressjs.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/expressjs.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/logos/figma.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/figma.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/logos/git.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/git.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/logos/github.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/github.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/logos/gradle.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/gradle.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/logos/html.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/html.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/logos/ionic.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/ionic.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/logos/js.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/js.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/logos/kotlin.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/kotlin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/logos/mongodb.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/mongodb.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/logos/node.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/node.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/logos/nosql.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/nosql.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/logos/react.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/react.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/logos/sql.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/sql.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/logos/swift.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/swift.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/logos/tailwind.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/tailwind.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/logos/typescript.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/typescript.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/logos/vite.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/vite.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/menu.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/menu.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/node.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/node.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/planes.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/planes.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/projects/galleriePhoto.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/projects/galleriePhoto.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/projects/maptripapp.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/projects/maptripapp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/projects/mtllabo.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/projects/mtllabo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/projects/spacet.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/projects/spacet.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/projects/spacetIcon.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/projects/spacetIcon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/sky.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sky.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/socials/linkedinlogo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/socials/linkedinlogo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/socials/whatsapplogo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/socials/whatsapplogo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/swift.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/swift.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/assets/typescript.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/typescript.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/models/phone3d.glb" beforeDir="false" afterPath="$PROJECT_DIR$/public/models/phone3d.glb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CopyEmailButton.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CopyEmailButton.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ParallaxBackground.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ParallaxBackground.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Project.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Project.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ProjectDetails.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProjectDetails.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constants/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/About.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/About.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Navbar.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,18 +75,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "TyagoCodes"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;TyagoCodes&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/TyagoCodes/Portfolio.git",
-    "accountId": "06af5276-860c-40ab-87f1-11fb92f7ab7f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/TyagoCodes/Portfolio.git&quot;,
+    &quot;accountId&quot;: &quot;06af5276-860c-40ab-87f1-11fb92f7ab7f&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
@@ -45,21 +96,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Node.js.ParallaxBackground.jsx.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Node.js.ParallaxBackground.jsx.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Public/assets/socials" />
@@ -93,7 +146,9 @@
       <workItem from="1751038944844" duration="18054000" />
       <workItem from="1751147629565" duration="62720000" />
       <workItem from="1751504776171" duration="9055000" />
-      <workItem from="1751527208349" duration="5195000" />
+      <workItem from="1751527208349" duration="5630000" />
+      <workItem from="1751532856869" duration="246000" />
+      <workItem from="1751533105465" duration="85000" />
     </task>
     <task id="LOCAL-00001" summary="v1.1">
       <option name="closed" value="true" />
@@ -119,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751532248943</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="v1.1">
+      <option name="closed" value="true" />
+      <created>1751532418639</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1751532418639</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

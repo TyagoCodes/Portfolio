@@ -1,5 +1,5 @@
 import React, {useState} from 'react'
-import arrowRight from "../../Public/assets/arrow-right.svg"
+import arrowRight from "../../public/assets/arrow-right.svg"
 import ProjectDetails from "./ProjectDetails.jsx";
 
 const Project = ({title, description, subDescription, href, image, tags, setPreview}) => {

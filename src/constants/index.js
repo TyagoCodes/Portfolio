@@ -11,8 +11,8 @@ export const myProjects = [
             "Designed for iOS 16+ with visual emphasis using Liquid Glass-inspired effects and adaptive constraints.",
         ],
         href: "", //add github link when app is ready for github
-        logo: "/Public/assets/projects/spacetIcon.png",
-        image: "/Public/assets/projects/spacet.png",
+        logo: "/public/assets/projects/spacetIcon.png",
+        image: "/public/assets/projects/spacet.png",
         tags: [
             {
                 id: 1,
