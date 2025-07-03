@@ -7,7 +7,7 @@ import { useMediaQuery } from 'react-responsive'
 
 export function Phone(props) {
     const group = useRef()
-    const { nodes, materials } = useGLTF('Public/models/phone3d.glb')
+    const { nodes, materials } = useGLTF('/models/phone3d.glb')
 
     // Detect screen size
     const isMobile = useMediaQuery({ maxWidth: 600 })
