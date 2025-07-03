@@ -30,7 +30,7 @@ export function Frameworks() {
                 iconSize={40}
             >
                 {skills.map((skill, index) => (
-                    <Icon Key={index} src={`../../Public/assets/logos/${skill}`}/>
+                    <Icon Key={index} src={`/assets/logos/${skill}`}/>
                 ))}
             </OrbitingCircles>
 
@@ -40,7 +40,7 @@ export function Frameworks() {
                 reverse speed={2}
             >
                 {skills.reverse().map((skill, index) => (
-                    <Icon Key={index} src={`../../Public/assets/logos/${skill}`}/>
+                    <Icon Key={index} src={`/assets/logos/${skill}`}/>
                 ))}
             </OrbitingCircles>
 

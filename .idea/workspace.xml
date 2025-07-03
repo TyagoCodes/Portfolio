@@ -4,60 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec4a9faf-58d2-4472-a044-f60bda6175aa" name="Changes" comment="v1.1">
+    <list default="true" id="ec4a9faf-58d2-4472-a044-f60bda6175aa" name="Changes" comment="v1.1 Fix: rename Public to public for Vercel compatibility">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/arrow-right.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/arrow-right.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/arrow-up.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/arrow-up.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/close.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/close.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/closex.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/closex.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/codingpov.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/codingpov.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/copy-done.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/copy-done.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/copy.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/copy.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/js.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/kotlin.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/kotlin.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/logos/androidstudio.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/androidstudio.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/logos/bash.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/bash.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/logos/css.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/css.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/logos/docker.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/docker.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/logos/expressjs.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/expressjs.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/logos/figma.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/figma.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/logos/git.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/git.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/logos/github.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/github.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/logos/gradle.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/gradle.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/logos/html.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/html.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/logos/ionic.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/ionic.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/logos/js.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/js.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/logos/kotlin.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/kotlin.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/logos/mongodb.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/mongodb.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/logos/node.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/node.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/logos/nosql.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/nosql.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/logos/react.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/react.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/logos/sql.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/sql.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/logos/swift.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/swift.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/logos/tailwind.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/tailwind.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/logos/typescript.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/typescript.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/logos/vite.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logos/vite.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/menu.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/menu.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/node.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/node.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/planes.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/planes.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/projects/galleriePhoto.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/projects/galleriePhoto.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/projects/maptripapp.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/projects/maptripapp.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/projects/mtllabo.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/projects/mtllabo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/projects/spacet.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/projects/spacet.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/projects/spacetIcon.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/projects/spacetIcon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/sky.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sky.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/socials/linkedinlogo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/socials/linkedinlogo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/socials/whatsapplogo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/socials/whatsapplogo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/swift.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/swift.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/assets/typescript.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/typescript.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/models/phone3d.glb" beforeDir="false" afterPath="$PROJECT_DIR$/public/models/phone3d.glb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/CopyEmailButton.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CopyEmailButton.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ParallaxBackground.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ParallaxBackground.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Project.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Project.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ProjectDetails.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProjectDetails.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/constants/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sections/About.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/About.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sections/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Frameworks.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Frameworks.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +97,7 @@
       <workItem from="1751504776171" duration="9055000" />
       <workItem from="1751527208349" duration="5630000" />
       <workItem from="1751532856869" duration="246000" />
-      <workItem from="1751533105465" duration="85000" />
+      <workItem from="1751533105465" duration="349000" />
     </task>
     <task id="LOCAL-00001" summary="v1.1">
       <option name="closed" value="true" />
@@ -182,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751532418639</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="v1.1 Fix: rename Public to public for Vercel compatibility">
+      <option name="closed" value="true" />
+      <created>1751533229671</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1751533229672</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +147,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v1.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="v1.1" />
+    <MESSAGE value="v1.1 Fix: rename Public to public for Vercel compatibility" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.1 Fix: rename Public to public for Vercel compatibility" />
   </component>
 </project>
