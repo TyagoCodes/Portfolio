@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec4a9faf-58d2-4472-a044-f60bda6175aa" name="Changes" comment="" />
+    <list default="true" id="ec4a9faf-58d2-4472-a044-f60bda6175aa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Phone.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Phone.jsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "TyagoCodes"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/TyagoCodes/Portfolio.git",
+    "accountId": "06af5276-860c-40ab-87f1-11fb92f7ab7f"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
@@ -78,7 +93,7 @@
       <workItem from="1751038944844" duration="18054000" />
       <workItem from="1751147629565" duration="62720000" />
       <workItem from="1751504776171" duration="9055000" />
-      <workItem from="1751527208349" duration="3737000" />
+      <workItem from="1751527208349" duration="4374000" />
     </task>
     <servers />
   </component>

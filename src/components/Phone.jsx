@@ -65,4 +65,4 @@ export function Phone(props) {
     )
 }
 
-useGLTF.preload('Public/models/phone3d.glb')
+useGLTF.preload('/models/phone3d.glb')
