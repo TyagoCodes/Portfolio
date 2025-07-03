@@ -1,0 +1,9 @@
+import React from 'react'
+
+const XXX = () => {
+    return(
+        <div> XXX </div>
+    )
+}
+
+export default XXX;
